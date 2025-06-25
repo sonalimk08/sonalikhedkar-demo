@@ -1,2 +1,4 @@
 # sonalikhedkar-demo
-This is my first Repo.
+This is my first Repo. 
+Author - Sonali Khedar
+
