@@ -1,4 +1,5 @@
 # sonalikhedkar-demo
-This is my first Repo. 
-Author - Sonali Khedar
+This is my first  Git Repo. 
+<br> 
+Author - Sonali Khedkar
 
